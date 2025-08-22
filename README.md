@@ -27,7 +27,9 @@ Veri seti, Gezinomi şirketinin yaptığı satış kayıtlarından oluşmaktadı
 - **SaleCheckInDayDiff** : Satış ile giriş tarihi arasındaki gün farkı  
 - **Season** : Sezon bilgisi (High / Low)  
 
-> Veri seti tekilleştirilmemiştir. Yani bir müşteri birden fazla satış işlemi yapmış olabilir.  
+> Veri seti tekilleştirilmemiştir. Yani bir müşteri birden fazla satış işlemi yapmış olabilir.
+  
+Not: Bu projede kullanılan veri seti, MIUUL eğitim materyali kapsamında sağlanmıştır ve gizlilik nedeniyle repoya eklenmemiştir. Projeyi çalıştırmak isteyen kullanıcıların kendi data/ klasörüne gezinomi_miuul.xlsx dosyasını eklemeleri gerekmektedir. 
 
 ---
 
